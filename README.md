@@ -1,10 +1,10 @@
 # True Cost of War
 Calculate welfare impact of big shocks from migration flows.
 
-Please check the excel file "Welfare_Calculation_Simple.xls" for a simple demonstration of the methodology. The formula only requires migration elasticity and flow data before and after the shock. The paper explains how to convert the raw welfare measure to income equivalent loss and also discusses caveats.
+Please check the excel file "Welfare_Calculation_Simple.xls" for a simple demonstration of the methodology. The formula only requires the migration elasticity parameter $\theta$ and the change in migration flows after the shock, $\Delta \log{m}^{kl}_t$. The paper explains how to convert the raw welfare measure to income equivalent loss and also discusses caveats.
 
 ***Formula***\
-The upper bound of change in welfare at conflict/shock location $k$ (i.e., the lower bound of the welfare impact) can be expressed with the formula below under the assumption that welfare does not increase in non-conflict/non-shock location $l \neq k$. 
+The upper bound of welfare change in conflict/shock location $k$ (i.e., the lower bound of the welfare impact) can be expressed with the formula below under the assumption that welfare does not increase in non-conflict/non-shock location $l \neq k$. 
 <h2>
 
 </h2>
