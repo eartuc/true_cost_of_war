@@ -10,7 +10,7 @@ The upper bound of welfare change in conflict/shock location $k$ (i.e., the lowe
 </h2>
 
 <h2>
-$\Delta{W}^k_t   \leq  \frac{1}{ \theta}  \left(   -  \Delta \log{m}^{kl}_t \right)$   
+ &emsp;&emsp;&emsp;&emsp;&emsp;  $\Delta{W}^k_t   \leq  \frac{1}{ \theta}  \left(   -  \Delta \log{m}^{kl}_t \right)$   
 </h2>
 
 <h3>
