@@ -21,7 +21,7 @@ The upper bound of welfare change in conflict/shock location $k$ (i.e., the lowe
 
 
 ***Citation***\
-Artuc Gomez-Parra and Onder (2026). "True Cost of War: The Conflict in Eatern Ukraine," Review of Economics and Statistics (forthcoming).
+Artuc Gomez-Parra and Onder (2026). "True Cost of War: The Conflict in Eastern Ukraine," [Review of Economics and Statistics (forthcoming).](https://doi.org/10.1162/REST.a.1737)
 
 ***Working paper version***\
 http://documents.worldbank.org/curated/en/099846210202232755
